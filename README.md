@@ -27,3 +27,7 @@ TypeScript, Python, Next.js, React, Tailwind CSS, n8n, UiPath, Power BI, SQL
 ---
 
 Open to freelance projects & internships — if it involves automation, data, or the web, I'm interested.
+
+---
+
+![pixel dino](./assets/pixel-dino.svg)
