@@ -1,5 +1,7 @@
 # Hi, I'm Thirdy 👋
 
+<img src="./assets/pixel-dino.svg" align="right" width="220"/>
+
 I build practical software — automation, data, and full-stack — that quietly does its job.
 
 🎓 Computer Engineering @ LPU–Cavite | 🤖 AI Automation | 📊 Data Engineering | 💻 Full-Stack Dev
@@ -28,6 +30,3 @@ TypeScript, Python, Next.js, React, Tailwind CSS, n8n, UiPath, Power BI, SQL
 
 Open to freelance projects & internships — if it involves automation, data, or the web, I'm interested.
 
----
-
-![pixel dino](./assets/pixel-dino.svg)
