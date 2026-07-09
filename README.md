@@ -17,7 +17,7 @@ I build practical software — automation, data, and full-stack — that quietly
 - **Full-Stack Web** — Next.js, TypeScript, and React — fast, accessible interfaces that ship
 
 ### 🚀 Featured builds
-- 👟 **SOLE** — AI-powered running shoe finder with 66 shoes, 8 brand themes, and a 3D card-ring hero (sole-woad.vercel.app)
+- 👟 **SOLE** — AI-powered running shoe finder with 66 shoes, 8 brand themes, and a 3D card-ring hero
 - 📡 **HELIX 7** — Terminal-based interactive fiction where your typing accuracy steers the story
 - 🧾 **Manifest** — UiPath automation turning material takeoffs into priced Bills of Quantities
 - ✅ **Vendor Accreditation AI Agent** — Document-screening agent that extracts, checks policy, and routes exceptions
