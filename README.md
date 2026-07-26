@@ -14,7 +14,7 @@ I build practical software — automation, data, and full-stack — that quietly
 
 ### ⚡ What I do
 - **AI & Automation** — n8n workflows, custom agents, and UiPath RPA that take manual work off the table
-- **Data & BI** — Power BI, DAX, and Python pipelines that make the numbers trustworthy and usefull 
+- **Data & BI** — Power BI, DAX, and Python pipelines that make the numbers trustworthy
 - **Full-Stack Web** — Next.js, TypeScript, and React — fast, accessible interfaces that ship
 
 ### 🚀 Featured builds
