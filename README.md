@@ -15,7 +15,7 @@ I build practical software — automation, data, and full-stack — that quietly
 ### ⚡ What I do
 - **AI & Automation** — n8n workflows, custom agents, and UiPath RPA that take manual work off the table
 - **Data & BI** — Power BI, DAX, and Python pipelines that make the numbers trustworthy
-- **Full-Stack Web** — Next.js, TypeScript, and React — fast, accessible interfaces that ship
+- **Full-Stack Web** — Next.js, TypeScript, and React — fast, accessible interfaces that works
 
 ### 🚀 Featured builds
 - 👟 **[SOLE](https://github.com/ThirdyTapawan/sole-demo)** — AI-powered running shoe finder with 66 shoes, 8 brand themes, and a 3D card-ring hero ([live demo](https://sole-woad.vercel.app))
