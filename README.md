@@ -3,8 +3,7 @@
 <img src="./assets/pixel-dino.svg" align="right" width="220"/>
 
 I build practical software — automation, data, and full-stack — that quietly does its job. 
-
-Johnson & Johnson Credit Analyst Intern 
+ 
 
 🎓 Computer Engineering @ LPU–Cavite | 🤖 AI Automation | 📊 Data Engineering | 💻 Full-Stack Dev
 
