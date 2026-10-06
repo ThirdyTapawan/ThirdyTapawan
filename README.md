@@ -11,7 +11,6 @@ I build practical software — automation, data, and full-stack — that quietly
 
 💼 LinkedIn: https://www.linkedin.com/in/angelito-tapawan-iii/
 
-Ready to Build!
 
 ---
 
