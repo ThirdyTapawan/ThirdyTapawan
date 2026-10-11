@@ -5,7 +5,7 @@
 I build practical software — automation, data, and full-stack — that quietly does its job. 
  
 
-🎓 Computer Engineering @ LPU–Cavite | 🤖 AI Automation | 📊 Data Engineering | 💻 Full-Stack Dev
+🎓 Computer Engineering @ LPU–Cavite | 🤖 AI Automation | 📊 Data Engineering | 💻 Full-Stack Dev, open for projects 
 
 🌐 Portfolio: https://thirdytapawan.vercel.app/
 
