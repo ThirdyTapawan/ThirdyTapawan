@@ -4,6 +4,7 @@
 
 I build practical software — automation, data, and full-stack — that quietly does its job. 
  
+Currently intern at Johnson and Johnson 
 
 🎓 Computer Engineering @ LPU–Cavite | 🤖 AI Automation | 📊 Data Engineering | 💻 Full-Stack Dev, open to projects.
 
