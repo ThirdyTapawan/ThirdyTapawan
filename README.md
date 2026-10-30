@@ -28,7 +28,7 @@ Currently intern at Johnson and Johnson
 - ✅ **Vendor Accreditation AI Agent** — Document-screening agent that extracts, checks policy, and routes exceptions
 - 📈 **Credit Risk Dashboard** — Power BI + star-schema model tracking aging, exposure, and delinquency
 
-### 🛠️ Toolkit
+### Toolkit
 TypeScript, Python, Next.js, React, Tailwind CSS, Supabase, n8n, UiPath, Power BI, SQL, ESP32 / IoT
 
 ---
