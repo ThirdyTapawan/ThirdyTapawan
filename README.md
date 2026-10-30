@@ -15,12 +15,12 @@ Currently intern at Johnson and Johnson
 
 ---
 
-### ⚡ What I do
+### What I do
 - **AI & Automation** — n8n workflows, custom agents, and UiPath RPA that take manual work off the table
 - **Data & BI** — Power BI, DAX, and Python pipelines that make the numbers trustworthy
 - **Full-Stack Web** — Next.js, TypeScript, and React — fast, accessible interfaces that ship
 
-### 🚀 Featured builds
+### Featured builds
 - 👟 **[SOLE](https://github.com/ThirdyTapawan/sole-demo)** — AI running-shoe concierge: a stride-matching finder, a Gemini chat that recommends and compares from a 66-shoe catalog, and a 3D card-ring hero ([live demo](https://sole-woad.vercel.app))
 - 📡 **[HELIX 7](https://github.com/ThirdyTapawan/helix7-demo)** — Deep-space typing game with a branching story mode and a 30-second speed run, powered by hand-written WebGL shaders and fully synthesised audio ([play it](https://helix-7.vercel.app))
 - 🌱 **[Hydrovia](https://github.com/ThirdyTapawan/hydrovia-demo)** — Thesis AIoT hydroponic system: ESP32 fuzzy-logic dosing with GSM fallback, plus a web console with live telemetry, a pixel crop time-lapse, an admin panel, and an AI assistant ([live demo](https://hydrovia-ph.vercel.app))
