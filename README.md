@@ -6,9 +6,9 @@ I build practical software — automation, data, and full-stack — that quietly
  
 Currently intern at Johnson and Johnson 
 
-🎓 Computer Engineering @ LPU–Cavite | AI Automation | Data Engineering | Full-Stack Dev, open to projects.
+Computer Engineering @ LPU–Cavite | AI Automation | Data Engineering | Full-Stack Dev, open to projects.
 
-🌐 Portfolio: https://thirdytapawan.vercel.app/
+Portfolio: https://thirdytapawan.vercel.app/
 
 💼 LinkedIn: https://www.linkedin.com/in/angelito-tapawan-iii/
 
