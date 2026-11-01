@@ -10,7 +10,7 @@ Computer Engineering @ LPU–Cavite | AI Automation | Data Engineering | Full-St
 
 Portfolio: https://thirdytapawan.vercel.app/
 
-💼 LinkedIn: https://www.linkedin.com/in/angelito-tapawan-iii/
+LinkedIn: https://www.linkedin.com/in/angelito-tapawan-iii/
 
 
 ---
