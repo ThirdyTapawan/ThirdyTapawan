@@ -34,5 +34,5 @@ TypeScript, Python, Next.js, React, Tailwind CSS, Supabase, n8n, UiPath, Power B
 
 ---
 
-Open to freelance projects & internships — if it involves automation, data, or the web, I'm interested.
+Open to freelance projects & internships — if it involves automation, data, or the web.
 
